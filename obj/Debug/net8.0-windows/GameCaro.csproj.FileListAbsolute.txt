@@ -1,0 +1,102 @@
+C:\Users\21548\source\repos\GameCaro\GameCaro\bin\Debug\net8.0-windows\GameCaro.exe
+C:\Users\21548\source\repos\GameCaro\GameCaro\bin\Debug\net8.0-windows\GameCaro.deps.json
+C:\Users\21548\source\repos\GameCaro\GameCaro\bin\Debug\net8.0-windows\GameCaro.runtimeconfig.json
+C:\Users\21548\source\repos\GameCaro\GameCaro\bin\Debug\net8.0-windows\GameCaro.dll
+C:\Users\21548\source\repos\GameCaro\GameCaro\bin\Debug\net8.0-windows\GameCaro.pdb
+C:\Users\21548\source\repos\GameCaro\GameCaro\obj\Debug\net8.0-windows\GameCaro.Form1.resources
+C:\Users\21548\source\repos\GameCaro\GameCaro\obj\Debug\net8.0-windows\GameCaro.csproj.GenerateResource.cache
+C:\Users\21548\source\repos\GameCaro\GameCaro\obj\Debug\net8.0-windows\GameCaro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\21548\source\repos\GameCaro\GameCaro\obj\Debug\net8.0-windows\GameCaro.AssemblyInfoInputs.cache
+C:\Users\21548\source\repos\GameCaro\GameCaro\obj\Debug\net8.0-windows\GameCaro.AssemblyInfo.cs
+C:\Users\21548\source\repos\GameCaro\GameCaro\obj\Debug\net8.0-windows\GameCaro.csproj.CoreCompileInputs.cache
+C:\Users\21548\source\repos\GameCaro\GameCaro\obj\Debug\net8.0-windows\GameCaro.dll
+C:\Users\21548\source\repos\GameCaro\GameCaro\obj\Debug\net8.0-windows\refint\GameCaro.dll
+C:\Users\21548\source\repos\GameCaro\GameCaro\obj\Debug\net8.0-windows\GameCaro.pdb
+C:\Users\21548\source\repos\GameCaro\GameCaro\obj\Debug\net8.0-windows\GameCaro.genruntimeconfig.cache
+C:\Users\21548\source\repos\GameCaro\GameCaro\obj\Debug\net8.0-windows\ref\GameCaro.dll
+C:\Users\21548\source\repos\GameCaro\GameCaro\obj\Debug\net8.0-windows\GameCaro.Properties.Resources.resources
+C:\Users\ngocn\Downloads\fu\dohoa\GameCaro\GameCaro\bin\Debug\net8.0-windows\GameCaro.exe
+C:\Users\ngocn\Downloads\fu\dohoa\GameCaro\GameCaro\bin\Debug\net8.0-windows\GameCaro.deps.json
+C:\Users\ngocn\Downloads\fu\dohoa\GameCaro\GameCaro\bin\Debug\net8.0-windows\GameCaro.runtimeconfig.json
+C:\Users\ngocn\Downloads\fu\dohoa\GameCaro\GameCaro\bin\Debug\net8.0-windows\GameCaro.dll
+C:\Users\ngocn\Downloads\fu\dohoa\GameCaro\GameCaro\bin\Debug\net8.0-windows\GameCaro.pdb
+C:\Users\ngocn\Downloads\fu\dohoa\GameCaro\GameCaro\obj\Debug\net8.0-windows\GameCaro.Form1.resources
+C:\Users\ngocn\Downloads\fu\dohoa\GameCaro\GameCaro\obj\Debug\net8.0-windows\GameCaro.Properties.Resources.resources
+C:\Users\ngocn\Downloads\fu\dohoa\GameCaro\GameCaro\obj\Debug\net8.0-windows\GameCaro.csproj.GenerateResource.cache
+C:\Users\ngocn\Downloads\fu\dohoa\GameCaro\GameCaro\obj\Debug\net8.0-windows\GameCaro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ngocn\Downloads\fu\dohoa\GameCaro\GameCaro\obj\Debug\net8.0-windows\GameCaro.AssemblyInfoInputs.cache
+C:\Users\ngocn\Downloads\fu\dohoa\GameCaro\GameCaro\obj\Debug\net8.0-windows\GameCaro.AssemblyInfo.cs
+C:\Users\ngocn\Downloads\fu\dohoa\GameCaro\GameCaro\obj\Debug\net8.0-windows\GameCaro.csproj.CoreCompileInputs.cache
+C:\Users\ngocn\Downloads\fu\dohoa\GameCaro\GameCaro\obj\Debug\net8.0-windows\GameCaro.dll
+C:\Users\ngocn\Downloads\fu\dohoa\GameCaro\GameCaro\obj\Debug\net8.0-windows\refint\GameCaro.dll
+C:\Users\ngocn\Downloads\fu\dohoa\GameCaro\GameCaro\obj\Debug\net8.0-windows\GameCaro.pdb
+C:\Users\ngocn\Downloads\fu\dohoa\GameCaro\GameCaro\obj\Debug\net8.0-windows\GameCaro.genruntimeconfig.cache
+C:\Users\ngocn\Downloads\fu\dohoa\GameCaro\GameCaro\obj\Debug\net8.0-windows\ref\GameCaro.dll
+C:\Users\ngocn\vsproject\fu\dohoa\GameCaro\GameCaro\bin\Debug\net8.0-windows\GameCaro.exe
+C:\Users\ngocn\vsproject\fu\dohoa\GameCaro\GameCaro\bin\Debug\net8.0-windows\GameCaro.deps.json
+C:\Users\ngocn\vsproject\fu\dohoa\GameCaro\GameCaro\bin\Debug\net8.0-windows\GameCaro.runtimeconfig.json
+C:\Users\ngocn\vsproject\fu\dohoa\GameCaro\GameCaro\bin\Debug\net8.0-windows\GameCaro.dll
+C:\Users\ngocn\vsproject\fu\dohoa\GameCaro\GameCaro\bin\Debug\net8.0-windows\GameCaro.pdb
+C:\Users\ngocn\vsproject\fu\dohoa\GameCaro\GameCaro\obj\Debug\net8.0-windows\GameCaro.Form1.resources
+C:\Users\ngocn\vsproject\fu\dohoa\GameCaro\GameCaro\obj\Debug\net8.0-windows\GameCaro.Properties.Resources.resources
+C:\Users\ngocn\vsproject\fu\dohoa\GameCaro\GameCaro\obj\Debug\net8.0-windows\GameCaro.csproj.GenerateResource.cache
+C:\Users\ngocn\vsproject\fu\dohoa\GameCaro\GameCaro\obj\Debug\net8.0-windows\GameCaro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ngocn\vsproject\fu\dohoa\GameCaro\GameCaro\obj\Debug\net8.0-windows\GameCaro.AssemblyInfoInputs.cache
+C:\Users\ngocn\vsproject\fu\dohoa\GameCaro\GameCaro\obj\Debug\net8.0-windows\GameCaro.AssemblyInfo.cs
+C:\Users\ngocn\vsproject\fu\dohoa\GameCaro\GameCaro\obj\Debug\net8.0-windows\GameCaro.csproj.CoreCompileInputs.cache
+C:\Users\ngocn\vsproject\fu\dohoa\GameCaro\GameCaro\obj\Debug\net8.0-windows\GameCaro.dll
+C:\Users\ngocn\vsproject\fu\dohoa\GameCaro\GameCaro\obj\Debug\net8.0-windows\refint\GameCaro.dll
+C:\Users\ngocn\vsproject\fu\dohoa\GameCaro\GameCaro\obj\Debug\net8.0-windows\GameCaro.pdb
+C:\Users\ngocn\vsproject\fu\dohoa\GameCaro\GameCaro\obj\Debug\net8.0-windows\GameCaro.genruntimeconfig.cache
+C:\Users\ngocn\vsproject\fu\dohoa\GameCaro\GameCaro\obj\Debug\net8.0-windows\ref\GameCaro.dll
+C:\Users\nhing\Downloads\caro\GameCaro\GameCaro\bin\Debug\net8.0-windows\GameCaro.exe
+C:\Users\nhing\Downloads\caro\GameCaro\GameCaro\bin\Debug\net8.0-windows\GameCaro.deps.json
+C:\Users\nhing\Downloads\caro\GameCaro\GameCaro\bin\Debug\net8.0-windows\GameCaro.runtimeconfig.json
+C:\Users\nhing\Downloads\caro\GameCaro\GameCaro\bin\Debug\net8.0-windows\GameCaro.dll
+C:\Users\nhing\Downloads\caro\GameCaro\GameCaro\bin\Debug\net8.0-windows\GameCaro.pdb
+C:\Users\nhing\Downloads\caro\GameCaro\GameCaro\obj\Debug\net8.0-windows\GameCaro.Form1.resources
+C:\Users\nhing\Downloads\caro\GameCaro\GameCaro\obj\Debug\net8.0-windows\GameCaro.Properties.Resources.resources
+C:\Users\nhing\Downloads\caro\GameCaro\GameCaro\obj\Debug\net8.0-windows\GameCaro.csproj.GenerateResource.cache
+C:\Users\nhing\Downloads\caro\GameCaro\GameCaro\obj\Debug\net8.0-windows\GameCaro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nhing\Downloads\caro\GameCaro\GameCaro\obj\Debug\net8.0-windows\GameCaro.AssemblyInfoInputs.cache
+C:\Users\nhing\Downloads\caro\GameCaro\GameCaro\obj\Debug\net8.0-windows\GameCaro.AssemblyInfo.cs
+C:\Users\nhing\Downloads\caro\GameCaro\GameCaro\obj\Debug\net8.0-windows\GameCaro.csproj.CoreCompileInputs.cache
+C:\Users\nhing\Downloads\caro\GameCaro\GameCaro\obj\Debug\net8.0-windows\GameCaro.dll
+C:\Users\nhing\Downloads\caro\GameCaro\GameCaro\obj\Debug\net8.0-windows\refint\GameCaro.dll
+C:\Users\nhing\Downloads\caro\GameCaro\GameCaro\obj\Debug\net8.0-windows\GameCaro.pdb
+C:\Users\nhing\Downloads\caro\GameCaro\GameCaro\obj\Debug\net8.0-windows\GameCaro.genruntimeconfig.cache
+C:\Users\nhing\Downloads\caro\GameCaro\GameCaro\obj\Debug\net8.0-windows\ref\GameCaro.dll
+C:\Users\nhing\OneDrive\Máy tính\caro\GameCaro\GameCaro\bin\Debug\net8.0-windows\GameCaro.exe
+C:\Users\nhing\OneDrive\Máy tính\caro\GameCaro\GameCaro\bin\Debug\net8.0-windows\GameCaro.deps.json
+C:\Users\nhing\OneDrive\Máy tính\caro\GameCaro\GameCaro\bin\Debug\net8.0-windows\GameCaro.runtimeconfig.json
+C:\Users\nhing\OneDrive\Máy tính\caro\GameCaro\GameCaro\bin\Debug\net8.0-windows\GameCaro.dll
+C:\Users\nhing\OneDrive\Máy tính\caro\GameCaro\GameCaro\bin\Debug\net8.0-windows\GameCaro.pdb
+C:\Users\nhing\OneDrive\Máy tính\caro\GameCaro\GameCaro\obj\Debug\net8.0-windows\GameCaro.Form1.resources
+C:\Users\nhing\OneDrive\Máy tính\caro\GameCaro\GameCaro\obj\Debug\net8.0-windows\GameCaro.Properties.Resources.resources
+C:\Users\nhing\OneDrive\Máy tính\caro\GameCaro\GameCaro\obj\Debug\net8.0-windows\GameCaro.csproj.GenerateResource.cache
+C:\Users\nhing\OneDrive\Máy tính\caro\GameCaro\GameCaro\obj\Debug\net8.0-windows\GameCaro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nhing\OneDrive\Máy tính\caro\GameCaro\GameCaro\obj\Debug\net8.0-windows\GameCaro.AssemblyInfoInputs.cache
+C:\Users\nhing\OneDrive\Máy tính\caro\GameCaro\GameCaro\obj\Debug\net8.0-windows\GameCaro.AssemblyInfo.cs
+C:\Users\nhing\OneDrive\Máy tính\caro\GameCaro\GameCaro\obj\Debug\net8.0-windows\GameCaro.csproj.CoreCompileInputs.cache
+C:\Users\nhing\OneDrive\Máy tính\caro\GameCaro\GameCaro\obj\Debug\net8.0-windows\GameCaro.dll
+C:\Users\nhing\OneDrive\Máy tính\caro\GameCaro\GameCaro\obj\Debug\net8.0-windows\refint\GameCaro.dll
+C:\Users\nhing\OneDrive\Máy tính\caro\GameCaro\GameCaro\obj\Debug\net8.0-windows\GameCaro.pdb
+C:\Users\nhing\OneDrive\Máy tính\caro\GameCaro\GameCaro\obj\Debug\net8.0-windows\GameCaro.genruntimeconfig.cache
+C:\Users\nhing\OneDrive\Máy tính\caro\GameCaro\GameCaro\obj\Debug\net8.0-windows\ref\GameCaro.dll
+C:\Users\Hoang Bao\Desktop\GameCaro\GameCaro\bin\Debug\net8.0-windows\GameCaro.exe
+C:\Users\Hoang Bao\Desktop\GameCaro\GameCaro\bin\Debug\net8.0-windows\GameCaro.deps.json
+C:\Users\Hoang Bao\Desktop\GameCaro\GameCaro\bin\Debug\net8.0-windows\GameCaro.runtimeconfig.json
+C:\Users\Hoang Bao\Desktop\GameCaro\GameCaro\bin\Debug\net8.0-windows\GameCaro.dll
+C:\Users\Hoang Bao\Desktop\GameCaro\GameCaro\bin\Debug\net8.0-windows\GameCaro.pdb
+C:\Users\Hoang Bao\Desktop\GameCaro\GameCaro\obj\Debug\net8.0-windows\GameCaro.Form1.resources
+C:\Users\Hoang Bao\Desktop\GameCaro\GameCaro\obj\Debug\net8.0-windows\GameCaro.Properties.Resources.resources
+C:\Users\Hoang Bao\Desktop\GameCaro\GameCaro\obj\Debug\net8.0-windows\GameCaro.csproj.GenerateResource.cache
+C:\Users\Hoang Bao\Desktop\GameCaro\GameCaro\obj\Debug\net8.0-windows\GameCaro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hoang Bao\Desktop\GameCaro\GameCaro\obj\Debug\net8.0-windows\GameCaro.AssemblyInfoInputs.cache
+C:\Users\Hoang Bao\Desktop\GameCaro\GameCaro\obj\Debug\net8.0-windows\GameCaro.AssemblyInfo.cs
+C:\Users\Hoang Bao\Desktop\GameCaro\GameCaro\obj\Debug\net8.0-windows\GameCaro.csproj.CoreCompileInputs.cache
+C:\Users\Hoang Bao\Desktop\GameCaro\GameCaro\obj\Debug\net8.0-windows\GameCaro.dll
+C:\Users\Hoang Bao\Desktop\GameCaro\GameCaro\obj\Debug\net8.0-windows\refint\GameCaro.dll
+C:\Users\Hoang Bao\Desktop\GameCaro\GameCaro\obj\Debug\net8.0-windows\GameCaro.pdb
+C:\Users\Hoang Bao\Desktop\GameCaro\GameCaro\obj\Debug\net8.0-windows\GameCaro.genruntimeconfig.cache
+C:\Users\Hoang Bao\Desktop\GameCaro\GameCaro\obj\Debug\net8.0-windows\ref\GameCaro.dll
